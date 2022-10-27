@@ -13,7 +13,8 @@ int main() {
 	
 	// 3. Realizamos los cálculos
 	
-	// Cálculos para pi_0
+	// Cálculos para pi_0 
+	// Se usa sqrt() para raíz cuadrada
 	pi0 = 2.0 + sqrt (2.0) ;
 	
 	// Cálculos para pi_1
