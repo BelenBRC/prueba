@@ -31,6 +31,7 @@ int main() {
 	
 	// 4. Mostramos las salidas al usuario
 	
+	cout << "\nLos resultados son los siguientes: " << endl;
 	cout << "\n\tPi0 = " << pi0 << endl ;
 	cout << "\tPi1 = " << pi1 << endl ;
 	cout << "\tPi2 = " << pi2 << endl ;
